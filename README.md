@@ -1,8 +1,10 @@
-🌟 Welcome to My Codeverse!
+**🌟 Welcome to My Codeverse!**
+
 Hi, I’m Wairimu, an explorer of ideas and a builder of solutions. 🌍
 
 🚀 Mission: To create technology that sparks joy, solves problems, and bridges gaps.
 💡 Motto: "Code is not just logic; it’s art, and every bug is a masterpiece waiting to be fixed."
+
 🛠️ Tools in My Arsenal
 Languages I Speak: Fluent in JavaScript, React, HTML/CSS, Java, and C++.
 Creative Superpower: Designing clean, functional, and user-friendly interfaces.
@@ -26,4 +28,6 @@ You just want to say hi! 👋
 Email: [serahknimo@gmail.com.com]
 Portfolio: 
 LinkedIn: https://www.linkedin.com/in/serah-kariuki/
+
+
 💻 "In a world full of problems, I choose to code solutions."
