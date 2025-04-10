@@ -29,7 +29,7 @@ You just want to say hi! 👋
 🌌 Dreamer: I believe in the magic of late-night coding marathons.
 📫 Let’s Connect:
 
-Email: [serahknimo@gmail.com.com]
+Email: [serahknimo@gmail.co]
 Portfolio: 
 LinkedIn: https://www.linkedin.com/in/serah-kariuki/
 
